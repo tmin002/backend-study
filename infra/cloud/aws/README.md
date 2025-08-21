@@ -1,0 +1,31 @@
+# Aws
+
+Path: `infra/cloud/aws`
+
+## Subtopics
+- [Account](./account/README.md)
+- [Api Gateway](./api_gateway/README.md)
+- [Backup](./backup/README.md)
+- [Cdk](./cdk/README.md)
+- [Cloudformation](./cloudformation/README.md)
+- [Cloudtrail](./cloudtrail/README.md)
+- [Cloudwatch](./cloudwatch/README.md)
+- [Config](./config/README.md)
+- [Cost Optimization](./cost_optimization/README.md)
+- [Ec2](./ec2/README.md)
+- [Elasticache](./elasticache/README.md)
+- [Guardduty Inspector](./guardduty_inspector/README.md)
+- [Iam](./iam/README.md)
+- [Kms](./kms/README.md)
+- [Lambda](./lambda/README.md)
+- [Network Firewall](./network_firewall/README.md)
+- [Rds](./rds/README.md)
+- [Region Az](./region_az/README.md)
+- [Route53](./route53/README.md)
+- [S3](./s3/README.md)
+- [Secrets Manager](./secrets_manager/README.md)
+- [Security Hub Foundational](./security_hub_foundational/README.md)
+- [Sso](./sso/README.md)
+- [Tags](./tags/README.md)
+- [Vpc](./vpc/README.md)
+- [Wafv2](./wafv2/README.md)

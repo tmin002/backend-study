@@ -1,5 +1,2 @@
 # Testcontainers
-
-Path: `spring/test/testcontainers`
-
-> Notes and examples TBD.
+spring/test/testcontainers

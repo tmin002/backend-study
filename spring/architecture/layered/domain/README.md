@@ -1,5 +1,2 @@
 # Domain
-
-Path: `spring/architecture/layered/domain`
-
-> Notes and examples TBD.
+spring/architecture/layered/domain

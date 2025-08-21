@@ -1,5 +1,2 @@
 # Trunk Based
-
-Path: `infra/cicd/pipelines/trunk_based`
-
-> Notes and examples TBD.
+infra/cicd/pipelines/trunk_based

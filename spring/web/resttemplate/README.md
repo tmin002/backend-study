@@ -1,5 +1,2 @@
 # Resttemplate
-
-Path: `spring/web/resttemplate`
-
-> Notes and examples TBD.
+spring/web/resttemplate

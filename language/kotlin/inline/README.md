@@ -1,5 +1,2 @@
 # Inline
-
-Path: `language/kotlin/inline`
-
-> Notes and examples TBD.
+language/kotlin/inline

@@ -1,5 +1,2 @@
 # Testing
-
-Path: `spring/webflux/testing`
-
-> Notes and examples TBD.
+spring/webflux/testing

@@ -1,5 +1,2 @@
 # Smt
-
-Path: `messagequeue/kafka/connect/transforms/smt`
-
-> Notes and examples TBD.
+messagequeue/kafka/connect/transforms/smt

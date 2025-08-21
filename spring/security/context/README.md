@@ -1,5 +1,2 @@
 # Context
-
-Path: `spring/security/context`
-
-> Notes and examples TBD.
+spring/security/context

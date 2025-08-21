@@ -1,5 +1,2 @@
 # Query
-
-Path: `spring/data/jdbc/query`
-
-> Notes and examples TBD.
+spring/data/jdbc/query

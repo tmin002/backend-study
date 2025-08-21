@@ -1,5 +1,2 @@
 # Apm Dashboard
-
-Path: `web/observability/apm_dashboard`
-
-> Notes and examples TBD.
+web/observability/apm_dashboard

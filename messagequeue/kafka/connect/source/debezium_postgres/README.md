@@ -1,5 +1,2 @@
 # Debezium Postgres
-
-Path: `messagequeue/kafka/connect/source/debezium_postgres`
-
-> Notes and examples TBD.
+messagequeue/kafka/connect/source/debezium_postgres

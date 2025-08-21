@@ -1,5 +1,2 @@
 # Dsl
-
-Path: `language/kotlin/dsl`
-
-> Notes and examples TBD.
+language/kotlin/dsl

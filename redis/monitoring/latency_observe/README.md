@@ -1,5 +1,2 @@
 # Latency Observe
-
-Path: `redis/monitoring/latency_observe`
-
-> Notes and examples TBD.
+redis/monitoring/latency_observe

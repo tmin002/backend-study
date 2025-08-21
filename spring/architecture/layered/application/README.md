@@ -1,5 +1,2 @@
 # Application
-
-Path: `spring/architecture/layered/application`
-
-> Notes and examples TBD.
+spring/architecture/layered/application

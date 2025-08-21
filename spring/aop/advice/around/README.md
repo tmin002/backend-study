@@ -1,5 +1,2 @@
 # Around
-
-Path: `spring/aop/advice/around`
-
-> Notes and examples TBD.
+spring/aop/advice/around

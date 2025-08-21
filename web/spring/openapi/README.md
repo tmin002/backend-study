@@ -1,6 +1,2 @@
 # Openapi
-
-Path: `web/spring/openapi`
-
-## Subtopics
-- [Springdoc](./springdoc/README.md)
+web/spring/openapi

@@ -1,5 +1,2 @@
 # Stomp
-
-Path: `web/websocket/subprotocols/stomp`
-
-> Notes and examples TBD.
+web/websocket/subprotocols/stomp

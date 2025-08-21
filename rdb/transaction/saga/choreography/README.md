@@ -1,5 +1,2 @@
 # Choreography
-
-Path: `rdb/transaction/saga/choreography`
-
-> Notes and examples TBD.
+rdb/transaction/saga/choreography

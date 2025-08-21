@@ -1,5 +1,2 @@
 # Rbac
-
-Path: `rdb/security/rbac`
-
-> Notes and examples TBD.
+rdb/security/rbac

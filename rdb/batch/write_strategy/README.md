@@ -1,5 +1,2 @@
 # Write Strategy
-
-Path: `rdb/batch/write_strategy`
-
-> Notes and examples TBD.
+rdb/batch/write_strategy

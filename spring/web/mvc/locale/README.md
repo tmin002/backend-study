@@ -1,5 +1,2 @@
 # Locale
-
-Path: `spring/web/mvc/locale`
-
-> Notes and examples TBD.
+spring/web/mvc/locale

@@ -1,5 +1,2 @@
 # Crl Ocsp
-
-Path: `computerscience/cryptography/pkix/crl_ocsp`
-
-> Notes and examples TBD.
+computerscience/cryptography/pkix/crl_ocsp

@@ -1,5 +1,2 @@
 # Rolling
-
-Path: `infra/cicd/deploy/strategies/rolling`
-
-> Notes and examples TBD.
+infra/cicd/deploy/strategies/rolling

@@ -1,5 +1,2 @@
 # Factory
-
-Path: `spring/architecture/ddd/factory`
-
-> Notes and examples TBD.
+spring/architecture/ddd/factory

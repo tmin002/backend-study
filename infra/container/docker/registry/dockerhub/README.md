@@ -1,5 +1,2 @@
 # Dockerhub
-
-Path: `infra/container/docker/registry/dockerhub`
-
-> Notes and examples TBD.
+infra/container/docker/registry/dockerhub

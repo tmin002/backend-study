@@ -1,5 +1,2 @@
 # Querydsl
-
-Path: `spring/data/jpa/querydsl`
-
-> Notes and examples TBD.
+spring/data/jpa/querydsl

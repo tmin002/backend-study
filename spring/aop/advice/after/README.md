@@ -1,5 +1,2 @@
 # After
-
-Path: `spring/aop/advice/after`
-
-> Notes and examples TBD.
+spring/aop/advice/after

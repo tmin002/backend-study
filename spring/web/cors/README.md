@@ -1,5 +1,2 @@
 # Cors
-
-Path: `spring/web/cors`
-
-> Notes and examples TBD.
+spring/web/cors

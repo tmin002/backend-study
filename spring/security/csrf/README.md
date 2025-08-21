@@ -1,5 +1,2 @@
 # Csrf
-
-Path: `spring/security/csrf`
-
-> Notes and examples TBD.
+spring/security/csrf

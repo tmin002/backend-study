@@ -1,5 +1,2 @@
 # Validation
-
-Path: `web/spring/mvc/validation`
-
-> Notes and examples TBD.
+web/spring/mvc/validation

@@ -1,5 +1,2 @@
 # Snapshots
-
-Path: `rdb/postgresql/mvcc/snapshots`
-
-> Notes and examples TBD.
+rdb/postgresql/mvcc/snapshots

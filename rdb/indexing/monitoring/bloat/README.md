@@ -1,5 +1,2 @@
 # Bloat
-
-Path: `rdb/indexing/monitoring/bloat`
-
-> Notes and examples TBD.
+rdb/indexing/monitoring/bloat

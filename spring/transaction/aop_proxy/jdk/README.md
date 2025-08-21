@@ -1,5 +1,2 @@
 # Jdk
-
-Path: `spring/transaction/aop_proxy/jdk`
-
-> Notes and examples TBD.
+spring/transaction/aop_proxy/jdk

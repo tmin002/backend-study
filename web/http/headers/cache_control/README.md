@@ -1,5 +1,2 @@
 # Cache Control
-
-Path: `web/http/headers/cache_control`
-
-> Notes and examples TBD.
+web/http/headers/cache_control

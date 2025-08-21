@@ -1,5 +1,2 @@
 # Operator Overloading
-
-Path: `language/kotlin/operator_overloading`
-
-> Notes and examples TBD.
+language/kotlin/operator_overloading

@@ -1,5 +1,2 @@
 # Deadlock Detection
-
-Path: `spring/transaction/lock/deadlock_detection`
-
-> Notes and examples TBD.
+spring/transaction/lock/deadlock_detection

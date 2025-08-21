@@ -1,5 +1,2 @@
 # Shared Library
-
-Path: `infra/cicd/jenkins/shared_library`
-
-> Notes and examples TBD.
+infra/cicd/jenkins/shared_library

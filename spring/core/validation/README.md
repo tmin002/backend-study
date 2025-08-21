@@ -1,5 +1,2 @@
 # Validation
-
-Path: `spring/core/validation`
-
-> Notes and examples TBD.
+spring/core/validation

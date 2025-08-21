@@ -1,5 +1,2 @@
 # Signoff Gpg
-
-Path: `workflow/git/commit/signoff_gpg`
-
-> Notes and examples TBD.
+workflow/git/commit/signoff_gpg

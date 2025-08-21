@@ -1,5 +1,2 @@
 # Dirties Context
-
-Path: `spring/test/dirties_context`
-
-> Notes and examples TBD.
+spring/test/dirties_context

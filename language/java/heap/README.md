@@ -1,5 +1,2 @@
 # Heap
-
-Path: `language/java/heap`
-
-> Notes and examples TBD.
+language/java/heap

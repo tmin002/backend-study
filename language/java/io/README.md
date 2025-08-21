@@ -1,5 +1,2 @@
 # Io
-
-Path: `language/java/io`
-
-> Notes and examples TBD.
+language/java/io

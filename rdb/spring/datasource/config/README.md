@@ -1,5 +1,2 @@
 # Config
-
-Path: `rdb/spring/datasource/config`
-
-> Notes and examples TBD.
+rdb/spring/datasource/config

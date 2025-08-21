@@ -1,5 +1,2 @@
 # Retry Backoff
-
-Path: `rdb/transaction/deadlock/retry_backoff`
-
-> Notes and examples TBD.
+rdb/transaction/deadlock/retry_backoff

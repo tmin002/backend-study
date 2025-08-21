@@ -1,5 +1,2 @@
 # Serializable
-
-Path: `spring/transaction/isolation/serializable`
-
-> Notes and examples TBD.
+spring/transaction/isolation/serializable

@@ -1,5 +1,2 @@
 # Http Basic
-
-Path: `spring/security/login/http_basic`
-
-> Notes and examples TBD.
+spring/security/login/http_basic

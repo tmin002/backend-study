@@ -1,5 +1,2 @@
 # Integration
-
-Path: `rdb/metrics/micrometer/integration`
-
-> Notes and examples TBD.
+rdb/metrics/micrometer/integration

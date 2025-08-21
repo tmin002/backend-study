@@ -1,5 +1,2 @@
 # Histogram
-
-Path: `rdb/mysql/optimizer/histogram`
-
-> Notes and examples TBD.
+rdb/mysql/optimizer/histogram

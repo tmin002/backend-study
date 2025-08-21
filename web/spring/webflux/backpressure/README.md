@@ -1,5 +1,2 @@
 # Backpressure
-
-Path: `web/spring/webflux/backpressure`
-
-> Notes and examples TBD.
+web/spring/webflux/backpressure

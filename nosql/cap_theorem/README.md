@@ -1,5 +1,2 @@
 # Cap Theorem
-
-Path: `nosql/cap_theorem`
-
-> Notes and examples TBD.
+nosql/cap_theorem

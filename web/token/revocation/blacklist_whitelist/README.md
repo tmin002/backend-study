@@ -1,5 +1,2 @@
 # Blacklist Whitelist
-
-Path: `web/token/revocation/blacklist_whitelist`
-
-> Notes and examples TBD.
+web/token/revocation/blacklist_whitelist

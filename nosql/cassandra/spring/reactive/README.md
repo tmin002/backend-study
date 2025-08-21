@@ -1,5 +1,2 @@
 # Reactive
-
-Path: `nosql/cassandra/spring/reactive`
-
-> Notes and examples TBD.
+nosql/cassandra/spring/reactive

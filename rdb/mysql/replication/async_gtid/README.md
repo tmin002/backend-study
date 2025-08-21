@@ -1,5 +1,2 @@
 # Async Gtid
-
-Path: `rdb/mysql/replication/async_gtid`
-
-> Notes and examples TBD.
+rdb/mysql/replication/async_gtid

@@ -1,5 +1,2 @@
 # Controller
-
-Path: `spring/web/mvc/controller`
-
-> Notes and examples TBD.
+spring/web/mvc/controller

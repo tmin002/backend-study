@@ -1,5 +1,2 @@
 # Tracing Apollo
-
-Path: `web/graphql/tracing_apollo`
-
-> Notes and examples TBD.
+web/graphql/tracing_apollo

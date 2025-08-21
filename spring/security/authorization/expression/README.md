@@ -1,5 +1,2 @@
 # Expression
-
-Path: `spring/security/authorization/expression`
-
-> Notes and examples TBD.
+spring/security/authorization/expression

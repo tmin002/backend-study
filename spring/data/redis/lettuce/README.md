@@ -1,5 +1,2 @@
 # Lettuce
-
-Path: `spring/data/redis/lettuce`
-
-> Notes and examples TBD.
+spring/data/redis/lettuce

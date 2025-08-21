@@ -1,5 +1,2 @@
 # String
-
-Path: `language/java/string`
-
-> Notes and examples TBD.
+language/java/string

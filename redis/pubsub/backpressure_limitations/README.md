@@ -1,5 +1,2 @@
 # Backpressure Limitations
-
-Path: `redis/pubsub/backpressure_limitations`
-
-> Notes and examples TBD.
+redis/pubsub/backpressure_limitations

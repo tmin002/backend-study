@@ -1,5 +1,2 @@
 # Repositories
-
-Path: `spring/data/redis/repositories`
-
-> Notes and examples TBD.
+spring/data/redis/repositories

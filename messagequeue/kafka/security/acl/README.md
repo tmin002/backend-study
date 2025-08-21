@@ -1,5 +1,2 @@
 # Acl
-
-Path: `messagequeue/kafka/security/acl`
-
-> Notes and examples TBD.
+messagequeue/kafka/security/acl

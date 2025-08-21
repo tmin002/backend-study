@@ -1,5 +1,2 @@
 # Javascript
-
-Path: `language/javascript`
-
-> Notes and examples TBD.
+language/javascript

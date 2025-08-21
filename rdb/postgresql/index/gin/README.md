@@ -1,5 +1,2 @@
 # Gin
-
-Path: `rdb/postgresql/index/gin`
-
-> Notes and examples TBD.
+rdb/postgresql/index/gin

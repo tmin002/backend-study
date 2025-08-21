@@ -1,5 +1,2 @@
 # Cascade
-
-Path: `spring/data/jpa/cascade`
-
-> Notes and examples TBD.
+spring/data/jpa/cascade

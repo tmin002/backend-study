@@ -1,5 +1,2 @@
 # Orchestration
-
-Path: `messagequeue/event_sourcing/saga/orchestration`
-
-> Notes and examples TBD.
+messagequeue/event_sourcing/saga/orchestration

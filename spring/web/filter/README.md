@@ -1,5 +1,2 @@
 # Filter
-
-Path: `spring/web/filter`
-
-> Notes and examples TBD.
+spring/web/filter

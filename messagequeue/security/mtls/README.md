@@ -1,5 +1,2 @@
 # Mtls
-
-Path: `messagequeue/security/mtls`
-
-> Notes and examples TBD.
+messagequeue/security/mtls

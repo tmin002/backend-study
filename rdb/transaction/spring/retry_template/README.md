@@ -1,5 +1,2 @@
 # Retry Template
-
-Path: `rdb/transaction/spring/retry_template`
-
-> Notes and examples TBD.
+rdb/transaction/spring/retry_template

@@ -1,5 +1,2 @@
 # Handler Functional
-
-Path: `spring/webflux/handler_functional`
-
-> Notes and examples TBD.
+spring/webflux/handler_functional

@@ -1,5 +1,2 @@
 # Record
-
-Path: `language/java/record`
-
-> Notes and examples TBD.
+language/java/record

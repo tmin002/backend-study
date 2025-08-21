@@ -1,5 +1,2 @@
 # Channels
-
-Path: `language/java/nio/channels`
-
-> Notes and examples TBD.
+language/java/nio/channels

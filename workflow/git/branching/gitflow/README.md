@@ -1,5 +1,2 @@
 # Gitflow
-
-Path: `workflow/git/branching/gitflow`
-
-> Notes and examples TBD.
+workflow/git/branching/gitflow

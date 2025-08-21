@@ -1,5 +1,2 @@
 # Trunk Based
-
-Path: `workflow/git/branching/trunk_based`
-
-> Notes and examples TBD.
+workflow/git/branching/trunk_based

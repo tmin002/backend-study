@@ -1,5 +1,2 @@
 # Anonymous
-
-Path: `spring/security/authentication/anonymous`
-
-> Notes and examples TBD.
+spring/security/authentication/anonymous

@@ -1,5 +1,2 @@
 # Tracing
-
-Path: `rdb/spring/observability/tracing`
-
-> Notes and examples TBD.
+rdb/spring/observability/tracing

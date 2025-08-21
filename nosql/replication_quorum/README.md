@@ -1,5 +1,2 @@
 # Replication Quorum
-
-Path: `nosql/replication_quorum`
-
-> Notes and examples TBD.
+nosql/replication_quorum

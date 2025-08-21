@@ -1,5 +1,2 @@
 # Remember Me
-
-Path: `spring/security/remember_me`
-
-> Notes and examples TBD.
+spring/security/remember_me

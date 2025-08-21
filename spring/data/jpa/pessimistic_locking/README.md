@@ -1,5 +1,2 @@
 # Pessimistic Locking
-
-Path: `spring/data/jpa/pessimistic_locking`
-
-> Notes and examples TBD.
+spring/data/jpa/pessimistic_locking

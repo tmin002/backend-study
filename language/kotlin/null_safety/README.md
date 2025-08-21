@@ -1,5 +1,2 @@
 # Null Safety
-
-Path: `language/kotlin/null_safety`
-
-> Notes and examples TBD.
+language/kotlin/null_safety

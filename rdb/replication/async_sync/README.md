@@ -1,5 +1,2 @@
 # Async Sync
-
-Path: `rdb/replication/async_sync`
-
-> Notes and examples TBD.
+rdb/replication/async_sync

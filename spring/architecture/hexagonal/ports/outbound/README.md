@@ -1,5 +1,2 @@
 # Outbound
-
-Path: `spring/architecture/hexagonal/ports/outbound`
-
-> Notes and examples TBD.
+spring/architecture/hexagonal/ports/outbound

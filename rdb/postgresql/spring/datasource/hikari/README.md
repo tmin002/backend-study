@@ -1,5 +1,2 @@
 # Hikari
-
-Path: `rdb/postgresql/spring/datasource/hikari`
-
-> Notes and examples TBD.
+rdb/postgresql/spring/datasource/hikari

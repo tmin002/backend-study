@@ -1,5 +1,2 @@
 # Integration
-
-Path: `messagequeue/kafka/streams/spring/integration`
-
-> Notes and examples TBD.
+messagequeue/kafka/streams/spring/integration

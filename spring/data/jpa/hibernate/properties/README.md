@@ -1,5 +1,2 @@
 # Properties
-
-Path: `spring/data/jpa/hibernate/properties`
-
-> Notes and examples TBD.
+spring/data/jpa/hibernate/properties

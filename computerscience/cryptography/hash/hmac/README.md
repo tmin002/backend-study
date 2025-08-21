@@ -1,5 +1,2 @@
 # Hmac
-
-Path: `computerscience/cryptography/hash/hmac`
-
-> Notes and examples TBD.
+computerscience/cryptography/hash/hmac

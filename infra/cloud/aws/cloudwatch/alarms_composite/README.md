@@ -1,5 +1,2 @@
 # Alarms Composite
-
-Path: `infra/cloud/aws/cloudwatch/alarms_composite`
-
-> Notes and examples TBD.
+infra/cloud/aws/cloudwatch/alarms_composite

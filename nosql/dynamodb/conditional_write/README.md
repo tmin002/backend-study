@@ -1,5 +1,2 @@
 # Conditional Write
-
-Path: `nosql/dynamodb/conditional_write`
-
-> Notes and examples TBD.
+nosql/dynamodb/conditional_write

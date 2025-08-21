@@ -1,5 +1,2 @@
 # Client User Broker
-
-Path: `messagequeue/kafka/quota/client_user_broker`
-
-> Notes and examples TBD.
+messagequeue/kafka/quota/client_user_broker

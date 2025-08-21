@@ -1,5 +1,2 @@
 # Datajpa
-
-Path: `spring/test/slice/datajpa`
-
-> Notes and examples TBD.
+spring/test/slice/datajpa

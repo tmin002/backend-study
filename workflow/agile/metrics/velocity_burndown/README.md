@@ -1,5 +1,2 @@
 # Velocity Burndown
-
-Path: `workflow/agile/metrics/velocity_burndown`
-
-> Notes and examples TBD.
+workflow/agile/metrics/velocity_burndown

@@ -1,6 +1,2 @@
 # Beans
-
-Path: `spring/beans`
-
-## Subtopics
-- [Factory](./factory/README.md)
+spring/beans

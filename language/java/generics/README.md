@@ -1,5 +1,2 @@
 # Generics
-
-Path: `language/java/generics`
-
-> Notes and examples TBD.
+language/java/generics

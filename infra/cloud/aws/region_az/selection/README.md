@@ -1,5 +1,2 @@
 # Selection
-
-Path: `infra/cloud/aws/region_az/selection`
-
-> Notes and examples TBD.
+infra/cloud/aws/region_az/selection

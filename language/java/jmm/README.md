@@ -1,5 +1,2 @@
 # Jmm
-
-Path: `language/java/jmm`
-
-> Notes and examples TBD.
+language/java/jmm

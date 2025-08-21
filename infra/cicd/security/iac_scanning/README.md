@@ -1,5 +1,2 @@
 # Iac Scanning
-
-Path: `infra/cicd/security/iac_scanning`
-
-> Notes and examples TBD.
+infra/cicd/security/iac_scanning

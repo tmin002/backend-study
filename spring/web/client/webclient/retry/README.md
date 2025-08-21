@@ -1,5 +1,2 @@
 # Retry
-
-Path: `spring/web/client/webclient/retry`
-
-> Notes and examples TBD.
+spring/web/client/webclient/retry

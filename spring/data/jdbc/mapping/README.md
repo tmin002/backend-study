@@ -1,5 +1,2 @@
 # Mapping
-
-Path: `spring/data/jdbc/mapping`
-
-> Notes and examples TBD.
+spring/data/jdbc/mapping

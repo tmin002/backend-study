@@ -1,5 +1,2 @@
 # Tools
-
-Path: `rdb/bulk_loader/tools`
-
-> Notes and examples TBD.
+rdb/bulk_loader/tools

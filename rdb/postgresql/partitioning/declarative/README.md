@@ -1,5 +1,2 @@
 # Declarative
-
-Path: `rdb/postgresql/partitioning/declarative`
-
-> Notes and examples TBD.
+rdb/postgresql/partitioning/declarative

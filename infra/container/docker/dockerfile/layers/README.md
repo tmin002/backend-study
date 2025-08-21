@@ -1,5 +1,2 @@
 # Layers
-
-Path: `infra/container/docker/dockerfile/layers`
-
-> Notes and examples TBD.
+infra/container/docker/dockerfile/layers

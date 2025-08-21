@@ -1,5 +1,2 @@
 # Pagination
-
-Path: `spring/data/jpa/pagination`
-
-> Notes and examples TBD.
+spring/data/jpa/pagination

@@ -1,6 +1,2 @@
 # Aggregation
-
-Path: `nosql/mongo/aggregation`
-
-## Subtopics
-- [Pipeline](./pipeline/README.md)
+nosql/mongo/aggregation

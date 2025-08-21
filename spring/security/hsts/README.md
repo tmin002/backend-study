@@ -1,5 +1,2 @@
 # Hsts
-
-Path: `spring/security/hsts`
-
-> Notes and examples TBD.
+spring/security/hsts

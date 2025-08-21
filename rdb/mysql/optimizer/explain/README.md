@@ -1,5 +1,2 @@
 # Explain
-
-Path: `rdb/mysql/optimizer/explain`
-
-> Notes and examples TBD.
+rdb/mysql/optimizer/explain

@@ -1,5 +1,2 @@
 # Infrastructure
-
-Path: `spring/architecture/layered/infrastructure`
-
-> Notes and examples TBD.
+spring/architecture/layered/infrastructure

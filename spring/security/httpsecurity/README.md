@@ -1,5 +1,2 @@
 # Httpsecurity
-
-Path: `spring/security/httpsecurity`
-
-> Notes and examples TBD.
+spring/security/httpsecurity

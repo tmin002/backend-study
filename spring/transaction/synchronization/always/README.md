@@ -1,5 +1,2 @@
 # Always
-
-Path: `spring/transaction/synchronization/always`
-
-> Notes and examples TBD.
+spring/transaction/synchronization/always

@@ -1,5 +1,2 @@
 # Rabbit Template
-
-Path: `messagequeue/rabbitmq/spring/rabbit_template`
-
-> Notes and examples TBD.
+messagequeue/rabbitmq/spring/rabbit_template

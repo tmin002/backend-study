@@ -1,5 +1,2 @@
 # Jpql
-
-Path: `spring/data/jpa/jpql`
-
-> Notes and examples TBD.
+spring/data/jpa/jpql

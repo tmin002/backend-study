@@ -1,5 +1,2 @@
 # Parallel
-
-Path: `language/java/stream/parallel`
-
-> Notes and examples TBD.
+language/java/stream/parallel

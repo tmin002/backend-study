@@ -1,5 +1,2 @@
 # Pubsub
-
-Path: `spring/data/redis/pubsub`
-
-> Notes and examples TBD.
+spring/data/redis/pubsub

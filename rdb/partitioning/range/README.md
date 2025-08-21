@@ -1,5 +1,2 @@
 # Range
-
-Path: `rdb/partitioning/range`
-
-> Notes and examples TBD.
+rdb/partitioning/range

@@ -1,5 +1,2 @@
 # Criteria
-
-Path: `spring/data/jpa/criteria`
-
-> Notes and examples TBD.
+spring/data/jpa/criteria

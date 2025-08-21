@@ -1,5 +1,2 @@
 # Innodb
-
-Path: `rdb/mysql/engine/innodb`
-
-> Notes and examples TBD.
+rdb/mysql/engine/innodb

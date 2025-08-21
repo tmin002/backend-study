@@ -1,5 +1,2 @@
 # Escalation
-
-Path: `rdb/transaction/lock/escalation`
-
-> Notes and examples TBD.
+rdb/transaction/lock/escalation

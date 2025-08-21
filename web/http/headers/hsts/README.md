@@ -1,5 +1,2 @@
 # Hsts
-
-Path: `web/http/headers/hsts`
-
-> Notes and examples TBD.
+web/http/headers/hsts

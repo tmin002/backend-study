@@ -1,5 +1,2 @@
 # Backpressure Flow Control
-
-Path: `web/websocket/backpressure_flow_control`
-
-> Notes and examples TBD.
+web/websocket/backpressure_flow_control

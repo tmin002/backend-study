@@ -1,5 +1,2 @@
 # Phantom
-
-Path: `rdb/transaction/anomalies/phantom`
-
-> Notes and examples TBD.
+rdb/transaction/anomalies/phantom

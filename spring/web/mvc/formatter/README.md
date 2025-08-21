@@ -1,5 +1,2 @@
 # Formatter
-
-Path: `spring/web/mvc/formatter`
-
-> Notes and examples TBD.
+spring/web/mvc/formatter

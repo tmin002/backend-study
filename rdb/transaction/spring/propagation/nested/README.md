@@ -1,5 +1,2 @@
 # Nested
-
-Path: `rdb/transaction/spring/propagation/nested`
-
-> Notes and examples TBD.
+rdb/transaction/spring/propagation/nested
